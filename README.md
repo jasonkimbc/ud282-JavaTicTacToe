@@ -1,3 +1,2 @@
 # ud282-JavaTicTacToe
-# ud282-JavaTicTacToe
-# ud282-JavaTicTacToe
+Java tic-tac-toe game with win checker
